@@ -14,4 +14,4 @@ Writinging a program to help guide the two-link robot arm shown in the the figur
 # 3. Probabilistic Roadmap:
 writing a program to help guide the six-link robot shown in the figure below from one one configuration to another while avoiding the objects in the workspace with planning methods based on random sampling. The robot shown in the figure is comprised of six revolute links and its configuration can be specified with a vector (theta1; theta2; theta3; theta4; theta5; theta6) where each entry is an angle in degrees between 0 and 360. Function SixLinkRobot computes the layout of all of the links as a function of
 the 6 parameters.
-![6-Link Robot](6-Link Robot.jpg)
+![6-LinkRobot](6-LinkRobot.jpg)
