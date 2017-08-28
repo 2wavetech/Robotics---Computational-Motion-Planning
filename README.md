@@ -9,4 +9,4 @@ Two algorithms are to be implemented:
 
 ## 2. Configuration Space:
 Writinging a program to help guide the two-link robot arm shown in the the figure below from one configuration to another while avoiding the objects in the workspace.
-![Configuration Space](Configuration Space.jpg)
+![Configuration Space](ConfigurationSpace.jpg)
