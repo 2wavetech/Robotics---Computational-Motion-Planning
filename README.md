@@ -8,6 +8,5 @@ Two algorithms are to be implemented:
 ![A* Result](Astar.jpg)
 
 ## 2. Configuration Space:
-writinging a program to help guide the two link robot arm shown in the the figure below from one configuration to another while avoiding the objects in the workspace.
-    ![Configuration Space](Configuration Space.jpg)
-    ![Alt Text](url)
+Writinging a program to help guide the two-link robot arm shown in the the figure below from one configuration to another while avoiding the objects in the workspace.
+![Configuration Space](Configuration Space.jpg)
