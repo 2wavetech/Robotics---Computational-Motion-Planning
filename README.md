@@ -5,6 +5,6 @@ Two alforithms are to be implemented:
 1. Dijkstra planner.
 2. A* planner.
 
-![Dijkstra Result](/images/Dijkstra.jpg)
+![Dijkstra Result](Dijkstra.jpg)
 
-![A* Result](/images/Astar.jpg)
+![A* Result](Astar.jpg)
